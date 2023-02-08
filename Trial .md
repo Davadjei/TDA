@@ -8,4 +8,16 @@ Below is a list of my materials
  1. Java
  2. python 
  3. Topology 
- -Symmetry 
+     - Symmetry
+       - Python 
+ 
+ ...
+     python 
+x = 5
+print (x)
+...
+
+
+'Here we are QLA'
+
+
