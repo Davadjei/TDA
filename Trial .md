@@ -11,11 +11,11 @@ Below is a list of my materials
      - Symmetry
        - Python 
  
- ...
-     python 
+```python
 x = 5
-print (x)
-...
+print(x)
+
+```
 
 
 'Here we are QLA'
